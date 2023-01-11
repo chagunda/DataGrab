@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ####  MassLynx DataGrab 2.9   ####
 
 ## Use this program for quick automated copying and exporting of MassLynx single ion chromatogram (sic) data.
